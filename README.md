@@ -10,4 +10,4 @@ This Python script detects potential Cross-Site Scripting (XSS) attacks in user 
 1. Clone the repository.
 2. Run the script:
    ```bash
-   python xss_detection.py
+   python xss.py
